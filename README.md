@@ -11,24 +11,48 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:amanrai@email.com)
 
----
-
-### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <!-- LinkedIn Hexagon Icon -->
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <svg width="48" height="48" viewBox="0 0 100 100">
+      <polygon points="50,5 93,27.5 93,72.5 50,95 7,72.5 7,27.5" fill="#0A66C2"/>
+      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" x="22" y="22" height="56" width="56"/>
+    </svg>
+  </a>
+  <!-- Gmail Hexagon Icon -->
+  <a href="mailto:amanrai@email.com" target="_blank">
+    <svg width="48" height="48" viewBox="0 0 100 100">
+      <polygon points="50,5 93,27.5 93,72.5 50,95 7,72.5 7,27.5" fill="#EA4335"/>
+      <image href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" x="22" y="22" height="56" width="56"/>
+    </svg>
+  </a>
+</p>
+
+ ### 🛠 Languages and Tools
+<p align="left">
+  <!-- C -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="48" width="48" style="background:#00599C;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="C"/>
+  <!-- C++ -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="48" width="48" style="background:#00599C;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="C++"/>
+  <!-- Python -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="48" width="48" style="background:#3776AB;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="Python"/>
+  <!-- NumPy -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="48" width="48" style="background:#013243;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="NumPy"/>
+  <!-- Pandas -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="48" width="48" style="background:#150458;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="Pandas"/>
+  <!-- HTML5 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="48" width="48" style="background:#E34F26;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="HTML5"/>
+  <!-- CSS3 -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="48" width="48" style="background:#1572B6;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="CSS3"/>
+  <!-- Java -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="48" width="48" style="background:#ED8B00;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="Java"/>
+  <!-- JavaScript -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="48" width="48" style="background:#F7DF1E;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="JavaScript"/>
+  <!-- MySQL -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" height="48" width="48" style="background:#00000F;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="MySQL"/>
+  <!-- React -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="48" width="48" style="background:#20232A;clip-path: polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);" title="React"/>
 </p>
 
 ---

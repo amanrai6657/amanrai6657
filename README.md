@@ -13,19 +13,13 @@
 ### 🔗 Connect with me
 
 <p align="left">
-  <!-- LinkedIn Hexagon Icon -->
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <svg width="48" height="48" viewBox="0 0 100 100">
-      <polygon points="50,5 93,27.5 93,72.5 50,95 7,72.5 7,27.5" fill="#0A66C2"/>
-      <image href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" x="22" y="22" height="56" width="56"/>
-    </svg>
+  <!-- LinkedIn -->
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aman-rai-a15a65256/)" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <!-- Gmail Hexagon Icon -->
-  <a href="mailto:amanrai@email.com" target="_blank">
-    <svg width="48" height="48" viewBox="0 0 100 100">
-      <polygon points="50,5 93,27.5 93,72.5 50,95 7,72.5 7,27.5" fill="#EA4335"/>
-      <image href="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" x="22" y="22" height="56" width="56"/>
-    </svg>
+  <!-- Email -->
+  <a href="mailto:raiaman6657@email.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40" height="40"/>
   </a>
 </p>
 

@@ -5,7 +5,7 @@
 🌱 Learning **Python, NumPy, Pandas**  
 🤝 Looking to collaborate on **open source projects**  
 📫 Reach me at: **amanrai@email.com**  
-💼 Portfolio: [Click Here](https://your-portfolio-link)  
+💼 Portfolio: [Click Here]([https://your-portfolio-lin](https://amanrai6657.github.io/My-portfolio/)k)  
 ⚡ Fun fact: I love building with emotion-recognition tech!
 
 ---
